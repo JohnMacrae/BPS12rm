@@ -1,1 +1,1 @@
-# BPS24rm - A 24V Lithium Battery Management with ESP Rainmaker
+# BPS12rm - A 12V Lithium Battery Management with ESP Rainmaker and OTA
